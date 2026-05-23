@@ -1,7 +1,7 @@
-# Vabroex
+# Webby tech
 A browser with very simple# Vabroex
 A browser with very simple UI and less customization but with full control for you.
-Designed for cybersecurity &amp; web developers.
+Designed for cybersecurity and web developers.
 
 # Branch
 You're in contributor's branch.
